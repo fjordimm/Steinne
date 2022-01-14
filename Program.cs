@@ -1,12 +1,11 @@
-﻿using System;
+using System;
 
-namespace dotnetcore
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+static class Program {
+
+    public static void Main(string[] args) {
+    
+        Console.WriteLine("hola steinnnere");
+        
     }
+
 }
